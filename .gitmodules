@@ -1,0 +1,3 @@
+[submodule "TNFood_DJ"]
+	path = TNFood_DJ
+	url = git@github.com:yen900611/TNFood_DJ.git
