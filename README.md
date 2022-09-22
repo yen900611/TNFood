@@ -8,3 +8,9 @@
 
 # 外部連結
 [2022 iThome 鐵人賽](https://ithelp.ithome.com.tw/users/20152178/ironman/5584)
+
+> **台南不需要米其林**
+> 
+> 1. [**專案程式碼**](https://github.com/yen900611/TNFood_DJ)
+> 2. [**專案文件與鐵人賽文章**](https://github.com/yen900611/TNFood)
+> 3. 參賽團隊 **[台南巷弄美食獵人](https://ithelp.ithome.com.tw/2022ironman/signup/team/256)**
