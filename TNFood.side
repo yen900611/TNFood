@@ -1,0 +1,21 @@
+{
+  "id": "98de5e44-1f2e-4994-95d6-3a9cab8b824e",
+  "version": "2.0",
+  "name": "TNFood",
+  "url": "http://127.0.0.1:8000/",
+  "tests": [{
+    "id": "0e7ec7b7-a16e-4431-ac02-e009455ad1ef",
+    "name": "測試使用者切換頁面",
+    "commands": []
+  }],
+  "suites": [{
+    "id": "cc785b21-b0e6-4ef5-a783-200584f6d164",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["0e7ec7b7-a16e-4431-ac02-e009455ad1ef"]
+  }],
+  "urls": ["http://127.0.0.1:8000/"],
+  "plugins": []
+}
