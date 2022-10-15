@@ -11,6 +11,7 @@
 
 > **台南不需要米其林**
 > 
-> 1. [**專案程式碼**](https://github.com/yen900611/TNFood_DJ)
-> 2. [**專案文件與鐵人賽文章**](https://github.com/yen900611/TNFood)
-> 3. 參賽團隊 **[台南巷弄美食獵人](https://ithelp.ithome.com.tw/2022ironman/signup/team/256)**
+> 1. 🏠[專案網址](https://tnfood.pythonanywhere.com/food/)
+> 2. 🧑‍💻[專案程式碼](https://github.com/yen900611/TNFood_DJ) 
+> 3. 📁[專案文件與鐵人賽文章](https://github.com/yen900611/TNFood)
+> 4. 👥參賽團隊 ****[台南巷弄美食獵人](https://ithelp.ithome.com.tw/2022ironman/signup/team/256)****
