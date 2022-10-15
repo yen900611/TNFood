@@ -1,4 +1,4 @@
-# Day30 露出水面 SEO
+# Day30 露出水面 學習如何進行SEO
 
 editor: 麒麟
 tag: SEO, django
@@ -20,12 +20,12 @@ tag: SEO, django
 1. 搜尋引擎會有機器人在網頁上，不斷地去查找各個網站的內容，將文章內容搜尋回來。根據文章的網址、標題、內容擷取關鍵字，若是使用者輸入的關鍵字匹配度愈高，就愈容易將相關聯的頁面顯示在搜尋結果中。
     - 搜尋 `台南不需要米其林`的結果，完全找不到自己的網站
         
-        ![search_result.png](Day30%20%E9%9C%B2%E5%87%BA%E6%B0%B4%E9%9D%A2%20SEO%204bc12eaff9704dbf839e66b8245dc96a/search_result.png)
+        ![search_result.png](Day30%20%E9%9C%B2%E5%87%BA%E6%B0%B4%E9%9D%A2%20%E5%AD%B8%E7%BF%92%E5%A6%82%E4%BD%95%E9%80%B2%E8%A1%8CSEO%204bc12eaff9704dbf839e66b8245dc96a/search_result.png)
         
 2. 除了內容，搜尋引擎機器人會為網站的效能做評分，載入速度愈快，使用者體驗愈好評分愈高。
     - 網站評分工具，可以使用 F12 點選lighthouse即可評分
         
-        ![lighthouse.png](Day30%20%E9%9C%B2%E5%87%BA%E6%B0%B4%E9%9D%A2%20SEO%204bc12eaff9704dbf839e66b8245dc96a/lighthouse.png)
+        ![lighthouse.png](Day30%20%E9%9C%B2%E5%87%BA%E6%B0%B4%E9%9D%A2%20%E5%AD%B8%E7%BF%92%E5%A6%82%E4%BD%95%E9%80%B2%E8%A1%8CSEO%204bc12eaff9704dbf839e66b8245dc96a/lighthouse.png)
         
 
 ## 優化SEO的方法
@@ -82,9 +82,9 @@ tag: SEO, django
 
 # 🌟本日成果
 
-![Untitled](Day30%20%E9%9C%B2%E5%87%BA%E6%B0%B4%E9%9D%A2%20SEO%204bc12eaff9704dbf839e66b8245dc96a/Untitled.png)
+![Untitled](Day30%20%E9%9C%B2%E5%87%BA%E6%B0%B4%E9%9D%A2%20%E5%AD%B8%E7%BF%92%E5%A6%82%E4%BD%95%E9%80%B2%E8%A1%8CSEO%204bc12eaff9704dbf839e66b8245dc96a/Untitled.png)
 
-![Untitled](Day30%20%E9%9C%B2%E5%87%BA%E6%B0%B4%E9%9D%A2%20SEO%204bc12eaff9704dbf839e66b8245dc96a/Untitled%201.png)
+![Untitled](Day30%20%E9%9C%B2%E5%87%BA%E6%B0%B4%E9%9D%A2%20%E5%AD%B8%E7%BF%92%E5%A6%82%E4%BD%95%E9%80%B2%E8%A1%8CSEO%204bc12eaff9704dbf839e66b8245dc96a/Untitled%201.png)
 
 1. 網頁嵌入關鍵字
     
@@ -137,21 +137,28 @@ tag: SEO, django
     
     - 使用GZip前 before
         
-        ![before-gzip.png](Day30%20%E9%9C%B2%E5%87%BA%E6%B0%B4%E9%9D%A2%20SEO%204bc12eaff9704dbf839e66b8245dc96a/before-gzip.png)
+        ![before-gzip.png](Day30%20%E9%9C%B2%E5%87%BA%E6%B0%B4%E9%9D%A2%20%E5%AD%B8%E7%BF%92%E5%A6%82%E4%BD%95%E9%80%B2%E8%A1%8CSEO%204bc12eaff9704dbf839e66b8245dc96a/before-gzip.png)
         
     - 使用GZip後 after  可以看到API 封包容量大幅的縮小
         
-        ![after-gzip.png](Day30%20%E9%9C%B2%E5%87%BA%E6%B0%B4%E9%9D%A2%20SEO%204bc12eaff9704dbf839e66b8245dc96a/after-gzip.png)
+        ![after-gzip.png](Day30%20%E9%9C%B2%E5%87%BA%E6%B0%B4%E9%9D%A2%20%E5%AD%B8%E7%BF%92%E5%A6%82%E4%BD%95%E9%80%B2%E8%A1%8CSEO%204bc12eaff9704dbf839e66b8245dc96a/after-gzip.png)
         
 4. 提交站點地圖到[Google Search Console(GSC)](https://search.google.com/search-console/)
     
     這個動作可以請Google 引擎特別認識我們的網站。
     
-    ![gsc-00.png](Day30%20%E9%9C%B2%E5%87%BA%E6%B0%B4%E9%9D%A2%20SEO%204bc12eaff9704dbf839e66b8245dc96a/gsc-00.png)
-    
-    ![gsc-01.png](Day30%20%E9%9C%B2%E5%87%BA%E6%B0%B4%E9%9D%A2%20SEO%204bc12eaff9704dbf839e66b8245dc96a/gsc-01.png)
-    
-    ![gsc-02.png](Day30%20%E9%9C%B2%E5%87%BA%E6%B0%B4%E9%9D%A2%20SEO%204bc12eaff9704dbf839e66b8245dc96a/gsc-02.png)
+    - 申請Google Search Console
+        
+        ![gsc-00.png](Day30%20%E9%9C%B2%E5%87%BA%E6%B0%B4%E9%9D%A2%20%E5%AD%B8%E7%BF%92%E5%A6%82%E4%BD%95%E9%80%B2%E8%A1%8CSEO%204bc12eaff9704dbf839e66b8245dc96a/gsc-00.png)
+        
+        ![gsc-01.png](Day30%20%E9%9C%B2%E5%87%BA%E6%B0%B4%E9%9D%A2%20%E5%AD%B8%E7%BF%92%E5%A6%82%E4%BD%95%E9%80%B2%E8%A1%8CSEO%204bc12eaff9704dbf839e66b8245dc96a/gsc-01.png)
+        
+        ![gsc-02.png](Day30%20%E9%9C%B2%E5%87%BA%E6%B0%B4%E9%9D%A2%20%E5%AD%B8%E7%BF%92%E5%A6%82%E4%BD%95%E9%80%B2%E8%A1%8CSEO%204bc12eaff9704dbf839e66b8245dc96a/gsc-02.png)
+        
+    - 驗證完畢之後可以請求Google將自己的網址納入索引之中
+        
+        ![gsc-submit-req.png](Day30%20%E9%9C%B2%E5%87%BA%E6%B0%B4%E9%9D%A2%20%E5%AD%B8%E7%BF%92%E5%A6%82%E4%BD%95%E9%80%B2%E8%A1%8CSEO%204bc12eaff9704dbf839e66b8245dc96a/gsc-submit-req.png)
+        
     
 
 ---
